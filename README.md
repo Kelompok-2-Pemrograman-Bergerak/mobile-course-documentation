@@ -69,6 +69,7 @@ Beberapa topik yang dikerjakan dalam repository ini:
 ```bash
 npm install
 node server.js
+```
 
 ---
 
@@ -76,5 +77,6 @@ node server.js
 ```bash
 npm install
 ionic serve
+```
 
 ---
