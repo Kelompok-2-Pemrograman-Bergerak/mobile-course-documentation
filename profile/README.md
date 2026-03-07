@@ -37,13 +37,13 @@ Pengembangan mencakup:
 
 | No | Nama Presentasi        | Nama Repositori | Link Repository |
 |----|------------------------|-----------|-----------------|
-| 1 | Ifhals Bobi Duhita      | Praktikum 8 | https://github.com/Kelompok-2-Pemrograman-Bergerak/P8-HTTP-Client-Observable-Gemini-AI-Integration |
-| 2 | Ifhals Bobi Duhita      | Praktikum 9 | https://github.com/Kelompok-2-Pemrograman-Bergerak/P9-Integrasi-Backend-Keamanan-Dasar-Cors |
-| 3 | Ifhals Bobi Duhita      | Praktikum 10 & 11 | https://github.com/Kelompok-2-Pemrograman-Bergerak/P-10-11-CRUD |
+| 1 |       | Praktikum 8 | https://github.com/Kelompok-2-Pemrograman-Bergerak/P8-HTTP-Client-Observable-Gemini-AI-Integration |
+| 2 |       | Praktikum 9 | https://github.com/Kelompok-2-Pemrograman-Bergerak/P9-Integrasi-Backend-Keamanan-Dasar-Cors |
+| 3 |       | Praktikum 10 & 11 | https://github.com/Kelompok-2-Pemrograman-Bergerak/P-10-11-CRUD |
 | 4 | Muhammad Hidayat        | Praktikum 12 | https://github.com/Kelompok-2-Pemrograman-Bergerak/P12-Authentication-JWT-Capacitor-AuthGuard |
 | 5 | Muhammad Hidayat        | Praktikum 13 | https://github.com/Kelompok-2-Pemrograman-Bergerak/P13-Maps-Camera-GeoLocation |
-| 6 | Joana Deika Pratama     | Praktikum 14 | https://github.com/Kelompok-2-Pemrograman-Bergerak/P15-OjekSiber-Security-Forensics.git |
-| 7 | Joana Deika Pratama     | Praktikum 15 |  |
+| 6 |      | Praktikum 14 | https://github.com/Kelompok-2-Pemrograman-Bergerak/P14-DanaKilat |
+| 7 |      | Praktikum 15 | https://github.com/Kelompok-2-Pemrograman-Bergerak/P15-OjekSiber-Security-Forensics |
 
 ---
 
