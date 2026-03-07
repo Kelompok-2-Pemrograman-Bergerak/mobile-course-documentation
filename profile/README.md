@@ -42,7 +42,7 @@ Pengembangan mencakup:
 | 3 | Ifhals Bobi Duhita      | Praktikum 10 & 11 | https://github.com/Kelompok-2-Pemrograman-Bergerak/P-10-11-CRUD |
 | 4 | Muhammad Hidayat        | Praktikum 12 | https://github.com/Kelompok-2-Pemrograman-Bergerak/P12-Authentication-JWT-Capacitor-AuthGuard |
 | 5 | Muhammad Hidayat        | Praktikum 13 | https://github.com/Kelompok-2-Pemrograman-Bergerak/P13-Maps-Camera-GeoLocation |
-| 6 | Joana Deika Pratama     | Praktikum 14 |  |
+| 6 | Joana Deika Pratama     | Praktikum 14 | https://github.com/Kelompok-2-Pemrograman-Bergerak/P15-OjekSiber-Security-Forensics.git |
 | 7 | Joana Deika Pratama     | Praktikum 15 |  |
 
 ---
